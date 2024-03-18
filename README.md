@@ -13,7 +13,7 @@ The game display at the top shows whose turn it is.
 If a player wins, the winning combination is highlighted, and a victory message is displayed.
 If the game ends in a tie, a message indicates a draw.
 Installation
-Clone this repository: git clone https://github.com/DineshDeshal/TicTacToe.git
+Clone this repository: git clone https://github.com/DineshDeshal/Tic-Tac-Toe1.git
 Navigate to the project folder: cd TicTacToe
 Run the game: python tic_tac_toe.py
 Dependencies
